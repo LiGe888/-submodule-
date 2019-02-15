@@ -1,0 +1,3 @@
+[submodule "SubmoduleLibFirst"]
+	path = SubmoduleLibFirst
+	url = git@github.com:LiGe888/SubmoduleLibFirst.git
